@@ -1,0 +1,233 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preach'd at White-Hall on Sunday, September 8, 1695 being the day of thanksgiving for the taking of Namur, and the safety of His Majesty's person / by J. Adams ...</title>
+            <author>Adams, John, 1662-1720.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26337</idno>
+            <idno type="STC">Wing A485</idno>
+            <idno type="STC">ESTC R20047</idno>
+            <idno type="EEBO-CITATION">12608700</idno>
+            <idno type="OCLC">ocm 12608700</idno>
+            <idno type="VID">64300</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26337)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64300)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 339:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preach'd at White-Hall on Sunday, September 8, 1695 being the day of thanksgiving for the taking of Namur, and the safety of His Majesty's person / by J. Adams ...</title>
+                  <author>Adams, John, 1662-1720.</author>
+               </titleStmt>
+               <extent>[4], 23 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Bennet ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Published by order of the Lords Justices"</note>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>God --  Worship and love --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:64300:1" rendition="simple:additions"/>
+            <p>A SERMON Preach'd at WHITE-HALL ON <hi>Sunday, September</hi> 8. 1695. BEING The Day of Thankſgiving for the taking of <hi>Namur,</hi> and the Safety of His MAJESTY'S Perſon.</p>
+            <p>BY <hi>J. Adams,</hi> A. M. Rector of St. <hi>Alban Woodſtreet.</hi>
+            </p>
+            <p>
+               <hi>Publiſhed by Order of the Lords Iuſtices.</hi>
+            </p>
+            <p>
+               <hi>London:</hi> Printed for <hi>Thomas Bennet,</hi> at the <hi>Half Moon</hi> in St. <hi>Paul</hi>'s Church-Yard. 1695.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:64300:2" rendition="simple:additions"/>
+            <pb facs="tcp:64300:2" rendition="simple:additions"/>
+            <pb facs="tcp:64300:3"/>
+            <pb n="1" facs="tcp:64300:3"/>
+            <head>A SERMON Preach'd at <hi>WHITE-HALL,</hi> &amp;c. ON PSALM xxxiii 1. <hi>Rejoyce in the Lord O ye Righteous! for Praiſe is Comely for the <g ref="char:V">Ʋ</g>pright.</hi>
+            </head>
+            <p>PRaiſe is ſo eaſy, ſo pleaſant, and ſo pro<g ref="char:EOLhyphen"/>fitable a Duty; ſo readily acknowledg'd by Reaſon, and-ſo juſtly claim'd by Re<g ref="char:EOLhyphen"/>velation, that there has never been much pains requir'd to perſuade men to the performance of it.</p>
+            <p>But as all the Paſſions are difficultly govern'd, when they riſe to Exceſs: ſo Joy, which is the ground of this Duty, is not only unruly in its
+<pb n="2" facs="tcp:64300:4"/>own Nature but men are apt to Encourage it ſo much, and give it ſuch a looſe upon any Publick Occaſion, that they ſeldom ſtay to con<g ref="char:EOLhyphen"/>ſider the great Object of their Praiſe, or what are the proper Qualifications to make it Acceptable:</p>
+            <p>But the Pſalmiſt leads us to both theſe in this Ex<g ref="char:EOLhyphen"/>cellent Pſalm; and whoever peruſes it with atten<g ref="char:EOLhyphen"/>tion will find that <hi>He</hi> had Conſider'd well the adorable perfections of God, before He preſum'd to Rejoyce in Him; and that He could never have been ſo Great a Maſter of Thankſgiving, had not His Piety qualify'd Him for being a Prophet, and the uprightneſs of His Heart made it worthy of Inſpiration: and from hence it is that He breaks out into this Holy Rapture; <hi>Rejoyce in the Lord O ye Righteous! for Praiſe is Comely for the Upright.</hi>
+            </p>
+            <p>The Perſons which the Pſalmiſt calls upon here in particular are the Righteous, and accordingly I ſhall endeavour to ſhow.</p>
+            <p n="1">1. That Good and Righteous Men are moſt Oblig'd to the Duty of Praiſe, and moſt fit to per<g ref="char:EOLhyphen"/>form it.</p>
+            <p n="2">2. What is the True and Proper Object of Praiſe and the Reaſonableneſs of it. Applying Each par<g ref="char:EOLhyphen"/>ticular to the preſent Occaſion.</p>
+            <p n="1">1. That Good and Righteous Men are moſt Oblig'd to the Duty of Praiſe, <hi>&amp;c.</hi>
+            </p>
+            <pb n="3" facs="tcp:64300:4"/>
+            <p> There are many of God's Bleſſings that are Uni<g ref="char:EOLhyphen"/>verſal, in Regard to theſe the Duty of Thankſ<g ref="char:EOLhyphen"/>giving ſhould be of as large Extent. But ſince ſome Men partake more particularly of His Favour, ſince 'tis with regard to the Righteous, and ſometimes for their ſakes only, that Whole Kingdoms and Nations Enjoy Publick Benefits; They are in a more particular manner oblig'd to Gratitude and Thankſgiving: They ought to be the moſt Early and moſt Active in their Praiſe; and that too in Order to the ſpreading and promoting of God's Glory.</p>
+            <p>The Example of Good Men will always have an Influence upon the Worſt part of Mankind: for thoſe Who deride Piety and Virtue in Private, are Glad to imitate them in Publick. There is ſuch a Natural Beauty in Goodneſs, as Commands, Eſteem and Veneration, therefore People Readily joyn with thoſe who are Righteous, and out of an O<g ref="char:EOLhyphen"/>pinion of their underſtanding and integrity, take their Actions upon truſt without farther Examination.</p>
+            <p>Whatever then can any ways Contribute to God's Glory, What outward reſpect ſoever ought to be paid to Him in any part of Devotion; This ſhould be undertaken Chiefly by the Righteous, not only in Conſideration of What they owe to Their God; but alſo of what they owe to their Neigh<g ref="char:EOLhyphen"/>bour. Eſpecially in matters of Praiſe and Thankſ<g ref="char:EOLhyphen"/>giving;
+<pb n="4" facs="tcp:64300:5"/>Which are ſo pleaſing and delightful in themſelves, that Every Body will readily joyn in the Offering of them.</p>
+            <p>But the Righteous are not only more Oblig'd to this Excellent Duty upon theſe Accounts, but they are alſo moſt fit to Perform it, and that for theſe Reaſons.</p>
+            <p n="1">1. Becauſe ſuch Men are always Humble, and Ready to Acknowledge their Unworthineſs of God's Gooodneſs.</p>
+            <p n="2">2. Becauſe They have a Quick and Lively Senſe <hi>of it,</hi> and are apt to be tenderly and paſſionately af<g ref="char:EOLhyphen"/>fected <hi>with it.</hi>
+            </p>
+            <p n="3">3. Becauſe They have always a Solid Founda<g ref="char:EOLhyphen"/>tion of True Joy in a Good Conſcience.</p>
+            <p n="4">4. Becauſe of that fitneſs and Congruity which there is between Praiſe and other Vertues.</p>
+            <p n="1">I. The Righteous are moſt fit to perform the Duty of Praiſe; becauſe they are always Humble and ready to acknowledge their unworthineſs of God's Goodneſs.</p>
+            <p>Humility is the chief ground of Gratitude and Praiſe; and Nothing makes men wanting in theſe Virtues ſo much as Pride: But where is Humility to be found to that Degree as in the Righteous? The Sum of All Religion is the Knowledge of God and the Knowledge of our ſelves. The more
+<pb n="5" facs="tcp:64300:5"/>We know of God, the more perfect and Excellent we find Him, the more we Know of our ſelves, we diſcover the more Weakneſs and Miſery; But no one can be ſo ſenſible How Wide theſe Extreams are, as the Righteous man: and Therefore no one can be ſo Humble, ſo ready to acknowledge His Unworthineſs of God's Goodneſs, whenever it is manifeſted towards Him.</p>
+            <p>There are too many men, that look upon Gods Benefits as their Due: there are others that think the deſigns they have Compaſs'd, the Eſtates they have Rais'd, their Succeſs in Peace or War, is all thro their Own Prudence and Induſtry, and therefore are more ready to <hi>Sacrifice to their Net,</hi> as the Prophet ſpeaks to themſelves, than to their God. This kind of Pride <hi>Moſes</hi> foreſaw in the <hi>Iſraelites,</hi> and therefore he warns them <hi>Deut.</hi> viii. 14.17. That after God had ſhown ſuch Great Wonders for them, they ſhould beware, leaſt they <hi>ſhould forget the Lord, and ſay in their Hearts, my Power, and the might of my Hands hath done this.</hi> How much more Reaſonable is that of Holy <hi>Jacob,</hi> when he reflected from how many Dangers God had delivered him: <hi>I am not worthy of the leaſt of all thy mercies, nor of all the truth which thou haſt ſhewed unto me.</hi>
+            </p>
+            <p>Alas! If we Conſider what God has done for us, and yet the Stubborneſs and Ingratitude of a
+<pb n="6" facs="tcp:64300:6"/>great part of this ſinful Nation. That neither the long Experience of God's Goodneſs, nor the ter<g ref="char:EOLhyphen"/>rours of his Juſtice, have been able to move us to Repentance; but that old Hereſies in <hi>our Faith</hi> are again reviv'd with the greateſt Confidence, that in<g ref="char:EOLhyphen"/>ſtead of mending <hi>in our Practice</hi> we have plainly grown worſe, and added the Vices of War to thoſe of Peace. If we Conſider this, how much more juſtly ought <hi>we</hi> to acknowledge, that we are not worthy of the leaſt of God's temporal mercies, nor of that truth, that ſaving Truth of the Goſpel, which He has ſhow'd unto Us, in a more Excel<g ref="char:EOLhyphen"/>lent manner than to any other Nation: and Hum<g ref="char:EOLhyphen"/>ble our ſelves into Praiſe and thankſgiving accor<g ref="char:EOLhyphen"/>dingly.</p>
+            <p n="2">II. The Righteous have a quick and lively ſenſe of God's Goodneſs, and are apt to be Tenderly and Paſſionately affected with it, and therefore are moſt fit to praiſe Him. Good men are Acquainted with the Ways of God, their thoughts are always taken up and Poſſeſt By Him; nor are their Underſtand<g ref="char:EOLhyphen"/>ings, Corrupted by prejudice, or Weakned By in<g ref="char:EOLhyphen"/>temperance: ſo that they perceive Him immediately in His Works of mercy; and gladly acknowledge and adore His Goodneſs.</p>
+            <p>Whereas Wicked men very ſlowly diſcover it, or very ſlowly Confeſs it; They are taken up ſo En<g ref="char:EOLhyphen"/>tirely, with the World and themſelves, <hi>that they re<g ref="char:EOLhyphen"/>gard
+<pb n="7" facs="tcp:64300:6"/>not the works of the Lord, nor Conſider the Opera<g ref="char:EOLhyphen"/>tion of His Hands.</hi> But attribute Every Extraordi<g ref="char:EOLhyphen"/>nary Event, to Chance, or to Neceſſity; or elſe look upon it as the Natural Effect of Human Force or Prudence, and Conſequently undervalue it and de<g ref="char:EOLhyphen"/>ſpiſe it.</p>
+            <p>And tho an Ill man may poſſibly diſcern God's Goodneſs in ſome Publick and remarkable Bleſ<g ref="char:EOLhyphen"/>ſing; Yet this Will not move Him much. He is too wiſe to admire any thing long, and therefore takes no notice of it, or forgets it immediately. And indeed Praiſe is ſo Spiritual and ſo Heavenly a Du<g ref="char:EOLhyphen"/>ty, that it is no wonder if it can take no Hold up<g ref="char:EOLhyphen"/>on Such a mind, as is weigh'd down by Senſual Deſires, and beſotted in its Vices.</p>
+            <p>But on the other ſide; as the Righteous diſcover God's benefits <hi>quickly,</hi> ſo they are touch'd with them <hi>ſenſibly.</hi> They are Entirely, abſolutely, taken up, with the Contemplation of His Love; and the Gracious Evidences of it, Break out ſo delightfully upon them, that they are Continually falling into Raptures of praiſe and thankſgiving. Such a Con<g ref="char:EOLhyphen"/>dition as this Holy <hi>David</hi> ſeems to be in frequently. The Senſe of God's Benefits make ſuch a Lively impreſſion upon Him, that He cannot mention them without Extaſie, and He ſeems to labour With Holy Joy, and to be in Pain How to Expreſs it. <hi>O God thou art my God, early will I ſeek Thee, my Soul
+<pb n="8" facs="tcp:64300:7"/>thirſteth for Thee, my fleſh longeth for Thee, Becauſe thy Loving Kindneſs is better than life my lips ſhall praiſe Thee. My Soul ſhall be ſatisfy'd as with mar<g ref="char:EOLhyphen"/>row and fatneſs, and my mouth ſhall Praiſe Thee with joyful Lips. Thou art my God and I will praiſe Thee, Thou art my God and I will exalt Thee. O Give Thanks unto the Lord for He is good and His Mercy Endureth for Ever.</hi>
+            </p>
+            <p>There are many other Paſſages in the Pſalms of this Kind, But Theſe may ſhow ſufficiently How fit the Righteous are to offer Praiſe: and that parti<g ref="char:EOLhyphen"/>cularly, Becauſe They ſooneſt diſcern the Effects of God's Goodneſs, and When they do ſo are touch'd with a more tender ſenſe of it.</p>
+            <p n="3">III. Another Reaſon why the Righteous are moſt proper to perform this Duty, is, becauſe they have always a ſolid foundation of True Joy in a Good Conſcience. Joy is Eſſential to Thankſgiving, 'tis impoſſible to be grateful without we are pleas'd firſt. But the ſenſe of Guilt will never ſuffer this. Inno<g ref="char:EOLhyphen"/>cence is the Only Ground of laſting Joy: this is that Happy Spring of good Humour and Vivacity, which gives a pleaſing Air to all our Words and Actions. This is that which brings down Heaven to Us or at leaſt begins it here; While God Him<g ref="char:EOLhyphen"/>ſelf vouchſafes to dwell in the pure and Spotleſs Heart. O the unſpeakable Happineſs of a Good Conſcience! This makes us at the ſame Time,
+<pb n="9" facs="tcp:64300:7"/>Eaſie to our ſelves; delightful to our Friends; and Dear to our God.</p>
+            <p>'Tis True Wicked men will often make ſome ſhow of Satisfaction and Joy, But in this They are the greateſt Hypocrites in the World. Alas to be pleas'd with a Well told ſtory, to be delighted with witty and malicious Cenſure, to be Exalted with the ſpirits of ſtrong liquors, is not to be joyful,
+<note place="margin">Sen. Ep. 23.</note> 
+               <hi>mihi Crede Res ſevera eſt verum gaudium.</hi> True joy does not Conſiſt in Wild and thoughtleſs Gayety, but is a Sober and Severe thing; Becauſe 'tis the <hi>Effect</hi> of our <hi>Having</hi> Moderated our Paſſions and Appetites, of our <hi>Having</hi> abſolutely Conquer'd our Vices, and not the <hi>Act of Indulging them.</hi>
+            </p>
+            <p>Beſides tho God's Bleſſings are never ſo Great or ſo Publick, the Wicked cannot have the Confidence to think that they were beſtowed for their ſakes, or belong to them in the leaſt, but the thoughts of their Guilt muſt ſtrike them with ſhame and ſor<g ref="char:EOLhyphen"/>row when they behold the joy of the Righteous, and Conſider that they Have nothing to do with the Cauſe of it.</p>
+            <p>But the Righteous may apply Gods mercies with<g ref="char:EOLhyphen"/>out preſumption to themſelves. They may re<g ref="char:EOLhyphen"/>flect with pleaſure upon their former Prayers and Humiliations, and look upon themſelves without Vanity as Benefactors to their Country; for the Goodneſs of one Private man brings down bleſ<g ref="char:EOLhyphen"/>ſings
+<pb n="10" facs="tcp:64300:8"/>upon the Publick; and prevails more at Home than the Strength and Policy of many in the Field.</p>
+            <p>And as theſe Arguments of God's Goodneſs muſt cauſe Joy and Satisfaction in a Righteous Man; ſo His Heart, by Being Kept ſtill in order, by a Conſtant Courſe of Virtue, is always Ready, and as it were in Tune, to Sound forth the Praiſe of God.</p>
+            <p n="4">IV. The Righteous are moſt Proper to Praiſe Him; Becauſe of the fitneſs and Congruity which there is between Praiſe and other Virtues. This is that Reaſon which the Pſalmiſt gives Here in Par<g ref="char:EOLhyphen"/>ticular, included in thoſe Words <hi>Praiſe is Comely for the Upright.</hi>
+            </p>
+            <p>As the Beauty of the Body Conſiſts in the Ex<g ref="char:EOLhyphen"/>act Dimenſions of Every part, and the Symmetry and Proportion of the whole: So does the Beauty of the Soul Conſiſt in the Exerciſe of All Chriſti<g ref="char:EOLhyphen"/>an Virtues, and in the mutual Relation which they have to each other: and if any one be Want<g ref="char:EOLhyphen"/>ing 'tis a plain Deformity, and will be perceiv'd immediately.</p>
+            <p>Thus ſhould thoſe who are Righteous in other Reſpects be Negligent in their Praiſe, they them<g ref="char:EOLhyphen"/>ſelves Hold the light by which they are diſcover'd, and thoſe Virtues which they have will ſhow the Deformity of their Ingratitude, and make it the more inexcuſable.</p>
+            <pb n="11" facs="tcp:64300:8"/>
+            <p> But when the Upright joyn Thankſgiving to their other Works of Righteouſneſs, all is com<g ref="char:EOLhyphen"/>pleat and uniform; this is Agreeable to their other Actions, it bears proportion <hi>with</hi> them, and receives a peculiar Grace <hi>from</hi> them, and in this Conſiſts that Comlineſs of Praiſe, and that Beauty of Thankſgiving which makes it pleaſing and Ac<g ref="char:EOLhyphen"/>ceptable in the Sight of God and Man.</p>
+            <p>On the other ſide, What ſhould Praiſe do alone without any other Virtue! What Abſurdity and Hypocriſie is it for ill men to Pretend to it! As a Well Shap'd Garment would not become a Crook<g ref="char:EOLhyphen"/>ed Body; ſo the Praiſe of God can never become a Wicked Heart: therefore (as St. <hi>Baſil</hi> ſays upon this place) it is probable that our Saviour Re<g ref="char:EOLhyphen"/>buk'd the Devils, and would not Suffer them to Confeſs Him; Becauſe Such Mouths were not fit to Pronounce ſuch a Name.</p>
+            <p>To this purpoſe is that of the Pſalmiſt, <hi>Pſal.</hi> l. 16. upon the Wicked God ſaith, <hi>What haſt thou to do to declare my Statutes, or that thou ſhouldſt take my Co<g ref="char:EOLhyphen"/>venant in thy mouth, Seeing thou Hateſt Inſtruction, and Casteſt my words behind thee.</hi>
+            </p>
+            <p>What indeed has He to do to Pronounce the Name of God, under pretence of ſhewing forth His Glory, Who has been us'd to pollute it Every moment by His Oaths and Blaſphemies. Or how can He pre<g ref="char:EOLhyphen"/>tend to praiſe the bounteous giver of all things,
+<pb n="12" facs="tcp:64300:9"/>Who has been a Diſgrace to His Goodneſs, and Turn'd His own Benefits Againſt Him, by making them the means of Committing greater Wicked<g ref="char:EOLhyphen"/>neſs.</p>
+            <p>The Ignorant God may Pardon and accept, not<g ref="char:EOLhyphen"/>withſtanding the Errours and imperfections of their Praiſe, but not the wicked; becauſe 'tis mere Con<g ref="char:EOLhyphen"/>fidence and Preſumption in them, and ſo far are ſuch people from ſetting forth God's Glory, that they rather leſſen it; for the Praiſe of Ill Men is Scandal: and as it would call a Good Man's Name in Queſtion, to have a Wicked Man Commend Him; ſo the Thankſgiving of the Unrighteous, (making God as it were on their ſide,) would be ſome Kind of Detraction, Even from Infinite Goodneſs and Holyneſs it ſelf.</p>
+            <p>But the Praiſe of the Righteous is Comely in the Sight of all men, and greatly advances God's Glo<g ref="char:EOLhyphen"/>ry: For Praiſe is an Act of Juſtice, and every act of Juſtice is beautiful in it ſelf, much more when ſet off by the Luſtre of other Virtues.</p>
+            <p>The Natural Notions which all men have of what is fit and juſt, makes them pleas'd when they ſee good men Act accordingly, When they ſee thoſe Who have receiv'd moſt from God, moſt careful to Praiſe Him for it, and that particularly becauſe they think that this is no light humour no ſudden fancy, which ſeizes them for a moment: but
+<pb n="13" facs="tcp:64300:9"/>built upon a Solid Foundation, and therefore likely to Continue and to have an Influence upon the Remaining part of their Lives.</p>
+            <p>If then the Righteous are moſt Humble, moſt ready to acknowledge their Unworthineſs of God's Goodneſs; If they have a more quickly and lively Sence of it, and are more tenderly affected with it. If they have always a Solid Foundation of True Joy in a Good Conſcience; and if there is a pecu<g ref="char:EOLhyphen"/>liar Fitneſs and Congruity between Praiſe and o<g ref="char:EOLhyphen"/>ther Chriſtian Virtues, then it follows that the Righteous are moſt proper to perform the Duty of Thankſgiving: And this was the firſt Thing which I propoſed. I proceed now to the ſecond.</p>
+            <p n="2">II. To Enforce this Duty by the Conſideration of its great Object: and the Benefits which we receive from Him. The Proper Object of our Praiſe, the Pſalmiſt leads us to, in the firſt words of the Text. <hi>Rejoyce in the Lord—. in Him,</hi> that is in the Knowledge that we have of His Divine Excellen<g ref="char:EOLhyphen"/>cies, and in the Experience that we have, that thoſe Excellencies are beneficial to Us. Some take the Word <hi>in</hi> to Limit our Praiſe to God's Eſſential Goodneſs, but this undoubtedly Reſtrains it too much. For thô God is ſo perfect in Himſelf that the Contemplation of Him Heightned by a lively Faith, may afford great Joy and Delight to ſome
+<pb n="14" facs="tcp:64300:10"/>good Men, yet His Eſſential Goodneſs is ſeldom apprehended ſufficiently by all People to produce Publick Praiſe. But it is neceſſary that mankind ſhould feel the Beneficial Effects of it for this pur<g ref="char:EOLhyphen"/>poſe. Thus thô the beauty of the Sun Conſider'd <hi>in it ſelf</hi> may juſtly cauſe admiration, yet it wou'd never be magnify'd ſo univerſally but that Men Enjoy the Light and the Warmth of it.</p>
+            <p>But above all, this is Confirmed by the Pſalmiſt in the following part of this Pſalm, for He does not tye Himſelf up ſtrictly to the Contemplation of the Divine Nature, as to its Eſſential Excellen<g ref="char:EOLhyphen"/>cies only, but Conſiders 'em as they relate to His Works, and are Beneficial to His Creatures, and that particularly as to <hi>His Godneſs, His Wiſdom and Power.</hi> I ſhall follow Him exactly in the ſame Method.</p>
+            <p n="1">1. Rejoyce in the Lord in regard of His Good<g ref="char:EOLhyphen"/>neſs: For great, nay infinite is His Goodneſs. And becauſe nothing can be more lovely than ſupreme Goodneſs the Prophet crys out, <hi>How great is His Goodneſs and How great is His Beauty.</hi> Whatever is pleaſing to Us below, is ſo, becauſe we take it to be good; that is, ſuppoſe it to partake of this Fountain of Everflowing Goodneſs. How then ſhould we be ſurprized and tranſported with Joy! if we lifted up our thought to Him Who is Goodneſs it ſelf, and thro His vaſt abundance
+<pb n="15" facs="tcp:64300:10"/>pours it upon Every Creature! But yet this would not be ſufficient for His <hi>Univerſal</hi> Praiſe, unleſs we conſider His Goodneſs in His Works. Thus our Pſalmiſt, <hi>v.</hi> 5. of this Pſalm, <hi>The Earth is full of the Goodneſs of the Lord;</hi> full indeed on Every ſide, for which way ſoever we turn, with what Sweet Variety do New Wonders and New Bleſſings meet Us. How do the Seaſons ſucceed in beauteous Order, and Carry Health and Plenty round the World. <hi>Thou crowneſt the Year with thy Goodneſs, and thy Paths drop Fatneſs: They drop upon the Paſtures in the Wilderneſs, and the little Hills re<g ref="char:EOLhyphen"/>joyce on every ſide, the Paſtures are Cloathed with Flocks, the Valleys alſo are cover'd over with Corn,</hi> (one would think the Prophet deſcribed our own Country) <hi>they Shout for Joy, they alſo Sing.</hi>
+            </p>
+            <p>And whence proceeds this Joy, what is it they Sing but Their Creator's Praiſe. Shall inanimate Creatures be ſo Juſt? Shall not only the Heavens but inferiour Parts of the Creation declare their Maker's Glory, by obſerving that Order in which He firſt put them. And ſhall <hi>man only</hi> be unthank<g ref="char:EOLhyphen"/>ful? And that, Becauſe He is at Liberty, and God expects a more noble Offering from His Free-Will, Praiſe and Gratitude of <hi>Choice,</hi> and not of <hi>Ne<g ref="char:EOLhyphen"/>ceſſity.</hi>
+            </p>
+            <pb n="16" facs="tcp:64300:11"/>
+            <p> This would be unpardonable in any Wretch in the whole World; but much more in any one of this Nation: for what inſtance of God's Goodneſs to<g ref="char:EOLhyphen"/>wards Us ſhall I name Firſt. The many Delive<g ref="char:EOLhyphen"/>rances which we have Had from Open Violence, but more from Secret Treachery, or the Incredible Wealth that has floated into Us from ſo many di<g ref="char:EOLhyphen"/>ſtant Nations, and the Plenty, Healthfulneſs and Se<g ref="char:EOLhyphen"/>curity of this Happy Iſland; Happy indeed in all theſe Reſpects, but much more Happy in being inſtructed ſo ſoon in the Saving Knowledge of Jeſus Chriſt; and when this began to be obſcur'd by Ignorance and Superſtition, in being bleſs'd ſo ſoon with ſo Judicious and Impartial a Reformation.</p>
+            <p>If we look abroad into the Reſt of the World, How many Countries are at Preſent the Seats of War, and Expos'd to the Bloody Incurſions of their Enemies, as well as the Neceſſities of their Friends. And yet <hi>even War it ſelf</hi> cannot be Worſe than the <hi>miſerable Peace</hi> of thoſe other Countries which groan under Idolatrous Superſti<g ref="char:EOLhyphen"/>tion, and are impoveriſh'd by its Avarice or diſ<g ref="char:EOLhyphen"/>peopled by its Cruelty: While all the While we Enjoy our Liberties and our Laws, <hi>under a Wiſe and Gracious Adminiſtration,</hi> and need fear no Diſturbance under our Vines and Fig Trees, unleſs we force it upon our ſelves by our own Diſſen<g ref="char:EOLhyphen"/>tions:</p>
+            <p n="2">
+               <pb n="17" facs="tcp:64300:11"/> 2. Rejoyce in Him becauſe of His Wiſdom; 'tis by this He governs and diſpoſes of all things as <hi>in Wiſdom He made 'em all.</hi> Some have thought it did not conſiſt with the Honour of ſo Great a Being to trouble Himſelf with the Government of the World: as if He were Endow'd with Infinite Knowledge and Almighty Power, only to Sleep away Eternity; as if there were no Grandeur but in Sloath, no Majeſty but in Stupidity. It can<g ref="char:EOLhyphen"/>not be doubted but the ſame God who gave all things their <hi>being,</hi> does give 'em alſo their <hi>manner of being;</hi> nor can it be thought any Hindrance to His Happineſs, or Detraction from His Glory to Support and Govern what He firſt Created, and therefore the Pſalmiſt ſays Excellently 13, 15. <hi>ver.</hi> of this Pſalm. <hi>The Lord looketh from Heaven and beholdeth all the Sons of Men. He faſhioneth their Hearts alike and Conſidereth all their Works.</hi> Alas! How vain without him are all the Undertakings of Wretched Man? We poor Creatures hurry'd about by our Luſts and Paſſions are Striving and Con<g ref="char:EOLhyphen"/>tending together perpetually, and yet are not able to do the leaſt good to our ſelves, or hurt to others, without His Permiſſion: Let us fancy to our ſelves in one place a Company of People met together Enrag'd with Malice and Revenge, Binding them<g ref="char:EOLhyphen"/>ſelves with dreadful Oaths and Solemnities to Ex<g ref="char:EOLhyphen"/>ecute ſome Conſpiracy. Let us imagine another
+<pb n="18" facs="tcp:64300:12"/>Number debating anxiouſly concerning Peace or War; Let us ſuppoſe again two Fleets or Armies hotly Engag'd: What is all this! but the incer<g ref="char:EOLhyphen"/>tain Motion of ſo much Duſt and Aſhes, incer<g ref="char:EOLhyphen"/>tain; till Determin'd by Divine Wiſdom: Whatever cautious Age adviſes or Eager Youth undertakes. How buſie or vain-glorious ſoever we are, we only Execute the Orders of our Great Maſter, and are the Inſtruments of His Providence.</p>
+            <p>How greatly then ſhould we Rejoyce when we diſcover plainly this Wiſdom to be working in our Behalf: With what pleaſure ought we to look Back and Conſider the ſeveral Steps by which His Providence has proceeded, and acknowledge with Humility and Shame the Folly of our former Doubts and Fears: How Raſh is Man in his Wiſhes? and how ingrateful in his Impatience? We can ſcarce be perſwaded to wait even for our Safety from the Slow Motion of ſecond Cauſes, but like the <hi>Iſraelites</hi> heretofore, are always for a Mira<g ref="char:EOLhyphen"/>cle; any little want in our Neceſſities, any ſmall diſappointment in our Undertakings, makes us im<g ref="char:EOLhyphen"/>mediately at a Stand, miſtruſt Heaven, and repine againſt God; while all the while His Wiſdom is acting in ſuch a manner, as may make the Effects of His Goodneſs more ſure and laſting to Us, and the Effects of His Power towards others more Re<g ref="char:EOLhyphen"/>markable.</p>
+            <pb n="19" facs="tcp:64300:12"/>
+            <p> Great and Publick Evils are ſeldom cur'd in a mo<g ref="char:EOLhyphen"/>ment, yet that Health which Returns ſlowly, when once ſettled, is moſt laſting. Thro how many Difficulties were the <hi>Iſraelites</hi> led to their <hi>Canaan,</hi> and how many defeats and delays did their own murmurs Coſt them; and yet at length, how many Victories did they Gain in a Short Time; when the Iniquity of the <hi>Amorites</hi> was full.</p>
+            <p>God often makes uſe of the Ambition and Pride of ill men (as Malefactors are frequently choſen for Executioners) to puniſh thoſe that are better, in order to their fuller Repentance; and when they have done ſo, and their own Iniquities are grown Ripe for Puniſhment, they become the more Remarkable Examples of His Juſtice.</p>
+            <p>Calamities may happen to Private Men or to Small Governments, without being much Regard<g ref="char:EOLhyphen"/>ed; But when a Nation has long Inſulted over the Reſt of Her Neighbours, when a Prince has Us'd His own Subjects with the Utmoſt Cruelty, and is lifted up far above the ordinary Condition of Humane Greatneſs. When after all Such a one is caſt Down, the Noiſe of <hi>His</hi> ruin draws all Mens Eyes upon it, and forces the <hi>Inhabitants of the Earth to Learn Righteouſneſs.</hi>
+            </p>
+            <p n="3">3. <hi>Rejoyce in the Lord in Regard of his Power.</hi> Tho this Attribute muſt be very terrible to thoſe whoſe Guilt may make 'em fear it ſhould be
+<pb n="20" facs="tcp:64300:13"/>turn'd againſt them, notwithſtanding this, <hi>the Righteous ſhall be glad and truſt in the Lord and all the Upright in Heart ſhall Glory.</hi> That very Power which is ſo dreadful to His Enemies, at which the Whole Creation Trembles at which <hi>the Everlaſting Mountains are ſcatter'd the perpetual Hills do Bow; when He marches Thro a Land in Indignation and threſhes the Heathen in his Anger,</hi> as the Prophet: That very Power can do as much for the Righteous. So that this Attribute cannot be dreadful to good men, but on the contrary, muſt be moſt pleaſant and delightful to them. For tho He is <hi>the Lord of Hoſts the God to Whom Vengeance belongeth;</hi> He is alſo <hi>the Lord Mighty to Save,</hi> Mighty to Save His Faithful Servants, and thoſe Who put their Truſt in Him.</p>
+            <p>How much then ought we to Rejoyce in Him at all Times upon this Conſideration! What a Comfort in Affliction, what a Support to our Faith muſt it be, when we Remember that what<g ref="char:EOLhyphen"/>ever His Goodneſs moves Him to do, His Power is ready to Put in Execution; whatever He promiſes as an Indulgent Father He is able to perform as an Almighty God.</p>
+            <p>But more Eſpecially How ſhould We Rejoyce in Him, when We find this Power acting in our Behalf in ſo glorious a manner. Men are apt in<g ref="char:EOLhyphen"/>deed to attribute their Succeſs in War to Themſelves,
+<pb n="21" facs="tcp:64300:13"/>and impute much to Their Own Strength and Wiſ<g ref="char:EOLhyphen"/>dom; But ſince there are ſo many inſtances of the Weaker ſides prevailing, ſince ſo many Victories have depended upon Strange and Unexpected Ac<g ref="char:EOLhyphen"/>cidents, this muſt proceed from a Superiour Power: And Indeed if God's Providence is allow'd to be Engag'd at any time about things on Earth, it muſt be ſo certainly When the Lives of ſo many Thouſands of His Nobleſt Creatures, of thoſe for Whom the World it ſelf Was made, are Concern'd. Therefore the Pſalmiſt again in this ſame <hi>Pſalm</hi> 16.18. <hi>There is no King ſav'd by the multitude of an Hoſt, a mighty Man is not deliver'd by much ſtrength; Behold the Eye of the Lord is upon them that fear Him, upon them that Hope in His mercy, to deliver their Soul from Death.</hi> If this then is ſo, we ought to Praiſe God for the Watchfulneſs of His Providence, and the Aſſiſtance of His Almighty Power; and that Par<g ref="char:EOLhyphen"/>ticularly, becauſe the Evils That are Avoided by Succeſs in War are really greater and more Univer<g ref="char:EOLhyphen"/>ſal than we Eſcape by being freed from any other Calamity: For Plagues, or Famine, ſpare at leaſt the Liberties, the Laws, the Religion of Coun<g ref="char:EOLhyphen"/>tries: but Conqueſt! Conqueſt tramples inſolent<g ref="char:EOLhyphen"/>ly upon all, Eſpecially when Whetted by Superſti<g ref="char:EOLhyphen"/>tion and Revenge.</p>
+            <p>And Thus have I Endeavoured to ſhow what perſons are properly Qualify'd for Praiſe, the Object
+<pb n="22" facs="tcp:64300:14"/>of it, and upon what Conſiderations chiefly it ought to be Paid, namely the Goodneſs, Wiſdom, and Power of God: And how Conſpicuous have all theſe Appear'd together in the Bleſſings that We Celebrate this day! And therefore what Sacrifices of Praiſe and Thankſgiving ought Every grateful Heart to Offer! At length We find that Torrent which has over-run <hi>Europe</hi> for ſo many Years with ſo much Noiſe and Devaſtation, Shrinking back again into its own Channel. At length we have Aſſerted our Ancient Dominion over the Seas, and Every Element has Contributed to our Glory; while both our Fleets and Armies (eſpecially the latter) have been Succeſsful in Spight of the greateſt Advantages of Nature, Art, or Humane Power.</p>
+            <p>And to add to all Theſe Mercies; That Great Prince, Whoſe Life is Sought for, not only by all open Attempts, but treacherous Practiſes: And yet, Who Expoſes it Continually by ſo many Journies and Voyages; nay, in ſo many Battles. Is ſtill preſerv'd by Divine Providence, Remains ſtill <hi>untouch'd by the Arrow that flyeth by day, and ſecure from the Malice that walketh in Darkneſs.</hi>
+            </p>
+            <p>Let <hi>others</hi> boaſt of Victories which <hi>they</hi> never <hi>ſaw,</hi> make Luxurious <hi>Perſian</hi> Campaigns, be skill<g ref="char:EOLhyphen"/>ful in Corrupting others Faith, and always Ready to break their own; and after ſuch glorious At<g ref="char:EOLhyphen"/>chievements Raiſe Triumphal Arches, dawb
+<pb n="23" facs="tcp:64300:14"/>their City Gates with Trophies and Inſcriptions, Pick and Bribe their own Hiſtorians.</p>
+            <p>No Place can be ignorant of our Conquerours Great Actions; and <hi>He</hi> may truſt His Greateſt E<g ref="char:EOLhyphen"/>nemies to Record His Virtues. How Unſhaken in Reſolution! How unwearied in Labour! and How Undaunted in Danger! — But I forbear —</p>
+            <p>Next to the Performing great Actions 'tis the Hardeſt Thing to Commend them Worthily, and tho There may not perhaps be ſo much danger of Flattery upon this Subject as any other, yet <hi>this Holy Place</hi> ought to be free from the leaſt Suſpici<g ref="char:EOLhyphen"/>on of it.</p>
+            <p>To Conclude then, let us Endeavour to Con<g ref="char:EOLhyphen"/>tinue theſe Bleſſings to Us by the Sincerity of our Praiſe and Thankſgiving, and let the Conſiderati<g ref="char:EOLhyphen"/>on of God's Goodneſs prevail upon Us by the Sweet Motives of Gratitude and Love to a Union and Conſtancy in our Obedience. <hi>That we may with one Mind, and with one Mouth Glorifie God, Even the Father of our Lord Jeſus Chriſt, To Whom with the Holy Ghoſt be aſcrib'd all Honour and Glory, Praiſe, Power, Dominion, and Thankſgiving, This Day and for Evermore.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
